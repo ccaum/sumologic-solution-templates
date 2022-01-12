@@ -82,3 +82,12 @@ If the script completes, you will have a new folder called **Software Developmen
     ![GitHub Daskboard](resources/github-pull-requests-dashboard.gif)
 
 1. Wait about 1 minute and then view the **GitHub - Pull Request Overview dashboard** in your Sumo Logic Account.
+
+
+# Telemetry
+The automation script in [Step 4](#step-4---run-the-automation) collects the following usage information:
+| What we collect | Why we collect it |
+| OS and architecture | To keep track of which operating systems and architectures we need to support |
+| Step completion and status | To track bugs and problem areas with the scripts |
+
+We do not, and never will, collect any personal information about your workstation user, network, or any other information not pertaining to the performance of the automation scripts themselves.
